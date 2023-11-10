@@ -1,4 +1,7 @@
 site_name: Wiki
+markdown_extensions:
+  - attr_list
+  - md_in_html
 theme:
   name: material
   palette:
