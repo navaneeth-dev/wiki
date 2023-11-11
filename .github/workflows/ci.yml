@@ -20,5 +20,8 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - run: pip install mkdocs-material
+      - run: python3 -m pip install --user pipx
+      - run: python3 -m pipx ensurepath
+      - run: pipx install poetry==1.5.1
+      - run: poetry install
       - run: mkdocs gh-deploy --force
