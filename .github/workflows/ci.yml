@@ -24,4 +24,4 @@ jobs:
       - run: python3 -m pipx ensurepath
       - run: pipx install poetry==1.5.1
       - run: poetry install
-      - run: mkdocs gh-deploy --force
+      - run: poetry run mkdocs gh-deploy --force
