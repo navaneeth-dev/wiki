@@ -2,6 +2,7 @@ site_name: Wiki
 markdown_extensions:
   - attr_list
   - md_in_html
+  - markdown_captions
 theme:
   name: material
   palette:

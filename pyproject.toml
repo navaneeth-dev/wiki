@@ -9,6 +9,7 @@ readme = "README.md"
 python = "^3.11"
 mkdocs-material = "^9.4.8"
 mkdocs-glightbox = "^0.3.4"
+markdown-captions = "^2.1.2"
 
 
 [build-system]
