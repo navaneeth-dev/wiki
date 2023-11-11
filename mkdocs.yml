@@ -3,6 +3,8 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - markdown_captions
+plugins:
+  - glightbox
 theme:
   name: material
   palette:
