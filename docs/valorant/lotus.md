@@ -4,7 +4,9 @@
 
 ![Alt text](../assets/images/lotus%20a.jpg)
 
-> If you aim a bit left it covers both sides of boxes
+!!! note
+
+    If you aim a bit left it covers both sides of boxes. It should be **precise**
 
 ## B Site
 
