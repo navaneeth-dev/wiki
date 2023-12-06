@@ -2,7 +2,11 @@
 
 ## A Site
 
-![Alt text](../assets/images/lotus%20a.jpg)
+![Glitched Lineup](../assets/images/lotus%20a.jpg)
+
+![Middle of root](../assets/images/lotus%20a%20middle.jpg)
+
+![Middle of leaves](../assets/images/lotus_a_lineup.jpg)
 
 !!! note
 
