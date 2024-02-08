@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/red team/index.md",
+                "file": "docs/red team/Windows/PowerShell/AMSI Bypass.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/red team/index.md",
+                "file": "docs/red team/Windows/PowerShell/AMSI Bypass.md",
                 "mode": "source",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/red team/index.md",
+                "file": "docs/red team/Windows/PowerShell/AMSI Bypass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/red team/index.md",
+                "file": "docs/red team/Windows/PowerShell/AMSI Bypass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/red team/index.md"
+                "file": "docs/red team/Windows/PowerShell/AMSI Bypass.md"
               }
             }
           }
@@ -168,10 +168,10 @@
   },
   "active": "a04cb6c6f06ca72a",
   "lastOpenFiles": [
-    "docs/red team/Windows/PowerShell/AMSI Bypass.md",
-    "docs/red team/index.md",
-    "().md",
     "docs/red team/Windows/PowerShell/PowerShell Tips And Tricks.md",
+    "docs/red team/index.md",
+    "docs/red team/Windows/PowerShell/AMSI Bypass.md",
+    "().md",
     "docs/red team/Windows",
     "docs/red team/Windows/PowerShell",
     "docs/frameworks/laravel.md",

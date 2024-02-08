@@ -10,6 +10,9 @@ plugins:
   - glightbox
 theme:
   name: material
+  features:
+    - navigation.indexes
+    - content.code.copy
   palette:
   - media: "(prefers-color-scheme)"
     toggle:
