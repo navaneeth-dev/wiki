@@ -4,25 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "f4d2b9f2854e4b7c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cf6430b5f5961a5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/valorant/bind.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "2562583695bdbf3d"
-          }
-        ]
-      },
-      {
         "id": "fcb48579c338f09e",
         "type": "tabs",
         "children": [
@@ -32,12 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/valorant/bind.md",
+                "file": "docs/red team/Windows/PowerShell/PowerShell Tips And Tricks.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "a4c8009c9c3964c4"
+          }
+        ]
+      },
+      {
+        "id": "adddf063b9567b46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b969c483d85eee0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/red team/Windows/PowerShell/PowerShell Tips And Tricks.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "2562583695bdbf3d"
+            "group": "a4c8009c9c3964c4"
           }
         ]
       }
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 449.5
+    "width": 240.50260543823242
   },
   "right": {
     "id": "cc6289011d2ccf37",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/valorant/bind.md",
+                "file": "docs/red team/Windows/PowerShell/PowerShell Tips And Tricks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/valorant/bind.md",
+                "file": "docs/red team/Windows/PowerShell/PowerShell Tips And Tricks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/valorant/bind.md"
+                "file": "docs/red team/Windows/PowerShell/PowerShell Tips And Tricks.md"
               }
             }
           }
@@ -166,10 +166,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf6430b5f5961a5d",
+  "active": "a04cb6c6f06ca72a",
   "lastOpenFiles": [
-    "docs/assets/images/Pasted image 20231110195711.png",
+    "docs/red team/Windows/PowerShell/AMSI Bypass.md",
+    "docs/red team/Windows/PowerShell/PowerShell Tips And Tricks.md",
+    "docs/red team/Windows",
+    "docs/red team/Windows/PowerShell",
+    "docs/frameworks/laravel.md",
+    "docs/index.md",
     "docs/valorant/bind.md",
+    "docs/red team",
+    "docs/assets/images/Pasted image 20231110195711.png",
     "docs/assets/images/Pasted image 20231110200147.png",
     "docs/assets/images/Pasted image 20231110200134.png",
     "().md"
