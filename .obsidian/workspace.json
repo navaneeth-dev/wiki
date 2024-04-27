@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/red team/Windows/PowerShell/AMSI Bypass.md",
+                "file": "docs/red team/Windows/Persistence/DLL Hijacking.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/red team/Windows/PowerShell/AMSI Bypass.md",
+                "file": "docs/red team/Windows/Persistence/DLL Hijacking.md",
                 "mode": "source",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/red team/Windows/PowerShell/AMSI Bypass.md",
+                "file": "docs/red team/Windows/Persistence/DLL Hijacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/red team/Windows/PowerShell/AMSI Bypass.md",
+                "file": "docs/red team/Windows/Persistence/DLL Hijacking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/red team/Windows/PowerShell/AMSI Bypass.md"
+                "file": "docs/red team/Windows/Persistence/DLL Hijacking.md"
               }
             }
           }
@@ -166,11 +166,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a04cb6c6f06ca72a",
+  "active": "3636778b272ff936",
   "lastOpenFiles": [
+    "docs/red team/Windows/AV Evasion.md",
+    "docs/red team/Windows/Persistence/DLL Hijacking.md",
+    "docs/red team/Windows/Persistence",
+    "docs/red team/Windows/PowerShell/AMSI Bypass.md",
     "docs/red team/Windows/PowerShell/PowerShell Tips And Tricks.md",
     "docs/red team/index.md",
-    "docs/red team/Windows/PowerShell/AMSI Bypass.md",
     "().md",
     "docs/red team/Windows",
     "docs/red team/Windows/PowerShell",
