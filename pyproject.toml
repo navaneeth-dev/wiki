@@ -1,17 +1,11 @@
-[tool.poetry]
-name = "wiki"
+[project]
+name = "homelabwiki"
 version = "0.1.0"
-description = ""
-authors = ["Navaneeth Rao <decodestudios.help@gmail.com>"]
+description = "Add your description here"
 readme = "README.md"
-
-[tool.poetry.dependencies]
-python = "^3.11"
-mkdocs-material = "^9.4.8"
-mkdocs-glightbox = "^0.3.4"
-markdown-captions = "^2.1.2"
-
-
-[build-system]
-requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api"
+requires-python = ">=3.13"
+dependencies = [
+    "markdown-captions>=2.1.2",
+    "mkdocs-glightbox>=0.5.1",
+    "mkdocs-material>=9.6.19",
+]
