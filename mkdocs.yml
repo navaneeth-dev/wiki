@@ -1,4 +1,5 @@
-site_name: Wiki
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
+site_name: Homelab India
 markdown_extensions:
   - attr_list
   - md_in_html

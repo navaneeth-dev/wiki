@@ -1,3 +1,3 @@
-# Rizexor's Wiki
+# Homelab India
 
-The goal of this website is to store things which I tend to forget after a while. It is like notes/second brain.
+Mega thread of everything you need to setup a homelab in India.
